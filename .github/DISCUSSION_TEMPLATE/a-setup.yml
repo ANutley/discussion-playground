@@ -19,7 +19,7 @@ body:
 
       If you haven't yet gotten to the step of installing the plugin, please explain what step you're stuck on
 
-      <br><br>
+      <br>
 - type: input
   id: logs
   attributes:
