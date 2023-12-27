@@ -32,10 +32,10 @@ body:
       
       __Please create a debug report (ONLY DO SO AFTER DOING THE PREVIOUS STEP)__
 
-        1. Run `/discordsrv debugger start minecraft_to_discord` to enable the debugger
-        2. Send messages in minecraft
-        3. Run `/discordsrv debugger upload` command in-game or through console
-        4. Send the link that you're given into this chat.
+      1. Run `/discordsrv debugger start minecraft_to_discord` to enable the debugger
+      2. Send messages in minecraft
+      3. Run `/discordsrv debugger upload` command in-game or through console
+       4. Send the link that you're given into this chat.
 - type: input
   id: bin
   attributes:
