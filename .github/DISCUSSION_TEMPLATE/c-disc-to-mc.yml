@@ -36,8 +36,6 @@ body:
         2. Send messages in minecraft
         3. Run `/discordsrv debugger upload` command in-game or through console
         4. Send the link that you're given into this chat.
-
-      ---
 - type: input
   id: bin
   attributes:
