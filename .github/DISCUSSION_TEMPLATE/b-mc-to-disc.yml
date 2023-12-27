@@ -10,6 +10,8 @@ body:
       2. Send messages in minecraft
       3. Run `/discordsrv debugger upload` command in-game or through console
       4. Paste the link you're given into the field below
+
+      ---
 - type: input
   id: bin
   attributes:
